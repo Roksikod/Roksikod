@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roksikod)](https://github.com/roksikod/github-readme-stats)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Roksikod)](https://git.io/streak-stats) 
+
 
 
 
