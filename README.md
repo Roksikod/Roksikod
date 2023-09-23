@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<h1 I'm <a href="https://t.me/SchischkiIT" target="_blank">Roksana</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Developer/Entwickler Java/C#/Python</h3>
-
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 <!--
 **Roksikod/Roksikod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
