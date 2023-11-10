@@ -1,14 +1,15 @@
 
 <h1 align="center"> Hi there, I'm <a href="https://t.me/SchischkiIT" target="_blank">Roksana Zalesskaia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h5 align="center">Developer Java/C#/Python</h5>
+<h3 align="center">Developer Java/C#/Python</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roksikod&layout=compact)](https://github.com/roksikod/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roksikod)](https://github.com/roksikod/github-readme-stats)  
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 
 <!--
