@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roksikod&layout=compact)](https://github.com/roksikod/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roksikod)](https://github.com/roksikod/github-readme-stats)  
 
 
-
+https://img.shields.io/badge/LinkedIn-blue
 
 
 <!--
